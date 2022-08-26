@@ -1,3 +1,2 @@
 # SearchRecords
-
-![](./test1/1.png) 
+![](./test1/1.png)
