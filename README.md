@@ -1,4 +1,4 @@
 # SearchRecords
-![](./test1/2.png)
+![效果图](./test1/2.png)
 
-![](./test1/1.gif)
+![GIF](./test1/1.gif)
